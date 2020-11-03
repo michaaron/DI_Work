@@ -1,0 +1,17 @@
+.bigsection{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border-style: solid;
+    height: 200px;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.divone{
+align-self: flex-end;
+}
+
+.divthree{
+    align-self: center;
+}

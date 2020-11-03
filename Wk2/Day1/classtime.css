@@ -1,0 +1,44 @@
+.flexsection{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border: black;
+    height: 200px;
+    border-style: solid;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 60px;
+    color: f4f4f4;
+}
+
+div{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.one{
+    background-color: blue;
+    flex-grow: 1;
+}
+.two{
+    background-color: blueviolet;
+    align-self: flex-end;
+    flex-grow: 1;
+}
+.three{
+    background-color: burlywood;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+.four{
+    background-color: chartreuse;
+    flex-grow: 0;
+}
+.five{
+    background-color: crimson;
+}
+.six{
+    background-color: darkcyan;
+}

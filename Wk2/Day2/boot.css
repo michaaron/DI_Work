@@ -1,0 +1,82 @@
+.bg-light{
+	background-color: #563C7C !important;
+}
+
+a{
+	color: #fff !important;
+}
+
+.jumbotron{
+	display: flex;
+	width: 1000px;
+	flex-direction: column;
+	justify-content: center;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.lead{
+	color: #563C7C !important;
+}
+
+.jumbotron p{
+	color: #563C7C !important;
+}
+
+.btn-lg{
+	background-color: #563C7C !important;
+}
+
+.youtube{
+	display: flex;
+	width: 1000px;
+	flex-direction: column;
+	justify-content: center;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.carousel{
+	display: flex;
+	width: 1000px;
+	flex-direction: column;
+	justify-content: center;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.signup-form{
+	display: flex;
+	width: 1000px;
+	flex-direction: column;
+	justify-content: center;
+	margin: auto;
+	margin-top: 20px;
+	background-color: #563C7C;
+}
+.signup-form h2, p{
+	text-align: center;
+	color: #fff;
+}
+
+.form-group{
+	padding: 5px;
+}
+
+.formbutton{
+	background-color: #fff !important;
+	color: #563C7C !important;
+}
+
+.form-group label{
+	color: #fff !important;
+}
+
+.account{
+	color: #fff !important;
+}
+
+.page-footer{
+	background-color: #563C7C !important;
+	margin-top: 40px;
+}

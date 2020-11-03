@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+    border: 2px solid red;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+}
+div{
+    color: white;
+    background-color: teal;
+    text-align: center;
+    margin: 5px;
+    
+}
+.one{
+    align-self: stretch;
+}
+.two{
+    align-self: center;
+    padding: 30px;
+    width: 50%;
+
+}
+.three{
+    align-self: stretch;
+}

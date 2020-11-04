@@ -1,0 +1,15 @@
+.col-md-3{
+    padding: 20px !important;
+    margin-top: 30px;
+}
+.col-md-9{
+    margin-top: 30px;
+}
+
+.my-0{
+    background-color: #2F33BF !important;
+    color: #fff !important;
+}
+.rounded-sm{
+    width: 300px;
+}

@@ -16,6 +16,6 @@ console.log(fruits);
 fruits.reverse();
 console.log(fruits);
 
-let moreFruits = ["Banana", "Apples", "Oranges", "Blueberries"];
-select = moreFruits[2] 
+let moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
+let select = moreFruits[1][1][0];
 console.log(select);
